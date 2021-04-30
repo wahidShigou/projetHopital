@@ -1,0 +1,6 @@
+cours\java\model\Medecin.class
+cours\java\model\Specialite.class
+cours\java\service\IMedecin.class
+cours\java\service\ISpecialite.class
+cours\java\model\Service.class
+cours\java\service\IService.class
